@@ -12,7 +12,7 @@ I lead the design and delivery of customer-facing AI products, including [DNA He
 
 ## What I bring
 
-My background spans more than 25 years of product development, software engineering, enterprise architecture, systems integration, and technical leadership. I work from the business problem through implementation and testing, with particular attention to the customer experience and the practical realities of operating what gets built.
+My background spans product development, software engineering, enterprise architecture, systems integration, and technical leadership across complex, high-accountability environments. I work from the business problem through implementation and testing, with particular attention to the customer experience and the practical realities of operating what gets built.
 
 Recent work includes consumer genomics reports, customer support systems guided by curated product and legal knowledge, document and data workflows, and an architecture for coordinating multiple AI tools while keeping consequential decisions with people.
 
@@ -23,5 +23,4 @@ Recent work includes consumer genomics reports, customer support systems guided 
 
 ## Contact
 
-- Email: [adolphwhite7@gmail.com](mailto:adolphwhite7@gmail.com)
 - Website: [https://mastermindgroupventures.com](https://mastermindgroupventures.com/)
